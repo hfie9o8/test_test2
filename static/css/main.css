@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box
+}
+body {
+    background-color:beige ;
+    font-family: Arial, Helvetica,;
+}
+
+
+.page-head, 
+.page-description{
+    text-align: center;
+}
+.page-head{
+    font-size: xx-large;
+}
+.page-description{
+    font-size: x-large;
+}
